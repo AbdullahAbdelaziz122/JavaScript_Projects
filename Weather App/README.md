@@ -1,6 +1,3 @@
-Here's a README file based on the provided content:
-
-```markdown
 # Weather App
 
 A simple weather app that allows users to search for the current weather conditions in a specific city.
